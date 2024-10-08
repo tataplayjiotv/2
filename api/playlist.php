@@ -20,7 +20,7 @@ $modified_content = str_replace(
 
 $modified_content = str_replace(
     "https://babel-discord-playlist.vercel.app/cache/",
-    "https://$serverAddress/mpd?id=",
+    "https://tataplayjiotvjass.vercel.app/mpd?id=",
     $modified_content
 );
 
