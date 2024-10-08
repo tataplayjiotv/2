@@ -9,7 +9,7 @@
             margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
-            background-image: url('upscaled(7).png');
+            background-image: url('https://i.ibb.co/VgvwBg1/IMG-20241008-092243-418.png');
             background-size: cover;
             background-position: center;
             color: white;
